@@ -4,6 +4,7 @@ public class Helloindia {
 
 	public static void main(String[] args) {
 	    System.out.println("India sucess&&&");
+	    System.out.println("pak sucess&&&");
 	    ////kkkkgh
 
 	}
