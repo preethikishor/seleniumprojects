@@ -7,6 +7,7 @@ public class Helloindia {
 	    System.out.println("pak sucess&&&");
 	    ////kkkkgh
 	    System.out.println("Afgan sucess&&&");
+	    System.out.println("syria sucess&&&");
 	}
 
 }
