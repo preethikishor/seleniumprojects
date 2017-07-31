@@ -6,7 +6,7 @@ public class Helloindia {
 	    System.out.println("India sucess&&&");
 	    System.out.println("pak sucess&&&");
 	    ////kkkkgh
-
+             System.out.println("america sucess&&&");
 	}
 
 }
